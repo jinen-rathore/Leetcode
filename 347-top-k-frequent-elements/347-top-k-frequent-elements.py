@@ -4,7 +4,6 @@ class Solution:
         for i in set(nums):
             counts[i] = nums.count(i)
                 
-        arr = sorted(counts,key = counts.get, reverse = True)
-        return arr[:k]
+        return sorted(counts,key = counts.get, reverse = True)[:k]
         
         
