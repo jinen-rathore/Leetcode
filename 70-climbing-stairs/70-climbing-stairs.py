@@ -1,5 +1,8 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
+        
+        # Time complexity: O(N)
+        # We will use dp as to get to nth step if we get the (n-1)th step and (n-2)th step we can add those and get the answer
         if n == 1:
             return 1
         
