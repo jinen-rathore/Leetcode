@@ -15,6 +15,7 @@ class Solution:
         return n == 1
         """
         
+        """
         # resursive approach
         if n == 0:
             return False
@@ -23,3 +24,23 @@ class Solution:
         if n % 2 == 0:
             return self.isPowerOfTwo(n/2)
         return False
+        """
+        
+        # bit manuplation approach
+        # ex 8 => 1000
+        #    7 => 0111
+        #   &---------
+        #    0 => 0000
+        
+        # 10 => 1010
+        # 9 =>  1001
+        #   &-------
+        # 11 => 1011
+        
+        if n == 0:
+            return False
+        if n & (n-1) == 0:
+            return True
+        else:
+            return False
+        
