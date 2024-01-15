@@ -15,15 +15,19 @@ class Solution:
                 h[l] = [0,1]
             else:
                 h[l][1] += 1
-                
+            
         loss0 = []
         loss1 = []
+        
+        # iterating over the hashmap and finding the person who had 0 loss and 1 loss 
+        # appending it to the array
         
         for key, val in h.items():
             if val[1] == 0:
                 loss0.append(key)
             if val[1] == 1:
                 loss1.append(key)
+        # returning the sorted form of array
         return [sorted(loss0),sorted(loss1)]
         
             
