@@ -1,42 +1,25 @@
 import random
 class RandomizedSet:
-
+    # one method is using the set() in python
     def __init__(self):
-        # self.hm = {}
         self.s = set()
+        self.d = dict()
 
     def insert(self, val: int) -> bool:
-        # if val not in self.hm:
-        #     self.hm[val] = 1
-        #     return True
-        # else:
-        #     self.hm[val] += 1
-        #     return False
+        # this is the basic set fucntion uisng python
         
         if val not in self.s:
             self.s.add(val)
             return True
         return False
     
-    def remove(self, val: int) -> bool:
-        # if val in self.hm and self.hm[val] > 1:
-        #     self.hm[val] -= 1
-        #     return True
-        # elif val in self.hm and self.hm[val] == 1:
-        #     self.hm.pop(val)
-        #     return True
-        # else:
-        #     return False
-        
+    def remove(self, val: int) -> bool:        
         if val in self.s:
             self.s.remove(val)
             return True
         return False
 
     def getRandom(self) -> int:
-        # key, val = random.choice(list(self.hm.items()))
-        # return key
-        
         ind = random.randint(0, len(self.s)-1)
         return list(self.s)[ind]
 
