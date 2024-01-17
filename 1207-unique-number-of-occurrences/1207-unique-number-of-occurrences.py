@@ -6,5 +6,4 @@ class Solution:
                 h[num] = 1
             else:
                 h[num] += 1
-        l = [x for x in h.values()]
-        return len(set(l)) == len(l)
+        return len(set(h.values())) == len(h.values())
