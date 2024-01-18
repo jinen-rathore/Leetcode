@@ -9,11 +9,12 @@ class Solution:
         # using tabulation
         dp = [0] * (n+1)
         
+        # we are the the first step => number is 1 
+        dp[0] = 1
+        # similarly to jump to second we only need one step
+        dp[1] = 1
+        
         for i in range(2,n+1):
-            # we are the the first step => number is 1 
-            dp[0] = 1
-            # similarly to jump to second we only need one step
-            dp[1] = 1
             # after that to get to any other step we need 
             # the sum on previous 2 steps as we can only jump 1 or 2 steps
             dp[i] = dp[i-1] + dp[i-2]
