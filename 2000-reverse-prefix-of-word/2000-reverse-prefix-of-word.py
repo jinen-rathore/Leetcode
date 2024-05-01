@@ -10,6 +10,5 @@ class Solution:
             res += word[i]
         for i in range(ind + 1, len(word)):
             res += word[i]
-        print(res)
         return res
                 
