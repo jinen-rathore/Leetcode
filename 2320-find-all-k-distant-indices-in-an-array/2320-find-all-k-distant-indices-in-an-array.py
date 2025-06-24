@@ -11,4 +11,3 @@ class Solution:
                 if abs(i - keys) <= k:
                     res.add(i)
         return list(res)
-        
