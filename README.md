@@ -7,6 +7,7 @@ Collection of LeetCode questions solved by me in PYTHON
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jinen-rathore/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jinen-rathore/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Simulation
 |  |
 | ------- |
@@ -19,4 +20,16 @@ Collection of LeetCode questions solved by me in PYTHON
 |  |
 | ------- |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/jinen-rathore/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jinen-rathore/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Greedy
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jinen-rathore/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jinen-rathore/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
