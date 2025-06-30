@@ -15,6 +15,7 @@ Collection of LeetCode questions solved by me in PYTHON
 ## Array
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/jinen-rathore/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1364-tuple-with-same-product](https://github.com/jinen-rathore/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/jinen-rathore/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Binary Search
@@ -36,9 +37,19 @@ Collection of LeetCode questions solved by me in PYTHON
 ## Hash Table
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/jinen-rathore/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1364-tuple-with-same-product](https://github.com/jinen-rathore/Leetcode/tree/master/1364-tuple-with-same-product) |
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/jinen-rathore/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1364-tuple-with-same-product](https://github.com/jinen-rathore/Leetcode/tree/master/1364-tuple-with-same-product) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/jinen-rathore/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/jinen-rathore/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
