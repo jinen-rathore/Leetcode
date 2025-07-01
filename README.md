@@ -17,6 +17,7 @@ Collection of LeetCode questions solved by me in PYTHON
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/jinen-rathore/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1127-last-stone-weight](https://github.com/jinen-rathore/Leetcode/tree/master/1127-last-stone-weight) |
 | [1364-tuple-with-same-product](https://github.com/jinen-rathore/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/jinen-rathore/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Binary Search
@@ -53,4 +54,8 @@ Collection of LeetCode questions solved by me in PYTHON
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/jinen-rathore/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/jinen-rathore/Leetcode/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
