@@ -8,6 +8,7 @@ Collection of LeetCode questions solved by me in PYTHON
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jinen-rathore/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jinen-rathore/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3617-find-the-original-typed-string-i](https://github.com/jinen-rathore/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Simulation
 |  |
 | ------- |
