@@ -13,6 +13,7 @@ Collection of LeetCode questions solved by me in PYTHON
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jinen-rathore/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/jinen-rathore/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
@@ -58,4 +59,16 @@ Collection of LeetCode questions solved by me in PYTHON
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/jinen-rathore/Leetcode/tree/master/1127-last-stone-weight) |
+## Math
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/jinen-rathore/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/jinen-rathore/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/jinen-rathore/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
